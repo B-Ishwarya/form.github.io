@@ -1,0 +1,16 @@
+.form{
+	text-align: center;
+	color: white;
+	background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=996&t=st=1670933502~exp=1670934102~hmac=ae9fd7c50c49ce9400e46788777bf4df2f4d9eb0a0e7cf1f8122067e9ffe668d");
+	padding-top: 50px;
+	font-family: Times New Roman;
+	font-weight: bolder;
+}
+.h{
+	font-size: 50px;
+	padding-top:100px;
+}
+.others{
+	font-size: 20px;
+	padding-bottom: 200px;
+}
